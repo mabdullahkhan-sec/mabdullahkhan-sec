@@ -16,7 +16,7 @@
 
 ## About Me
 
-I am an MS Cyber Security candidate at PNEC NUST (GPA: 3.55) with a background in SOC operations, security research, and GRC compliance frameworks. My internship at ITSOLERA gave me hands-on experience operating a real SOC toolchain — from SIEM alert triage and firewall integration to malware analysis and workflow automation.
+I am an MS Cyber Security candidate at PNEC NUST (GPA: 3.55) with a background in SOC operations, security research, and GRC compliance frameworks. My internship at ITSOLERA gave me hands-on experience operating a real SOC toolchain from SIEM alert triage and firewall integration to malware analysis and workflow automation.
 
 I am actively building toward GRC and information security roles, with focused study on ISO 27001, NIST CSF 2.0, PCI DSS, and risk management. I approach security from both the technical and governance side.
 
