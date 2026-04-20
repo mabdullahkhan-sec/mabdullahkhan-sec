@@ -98,7 +98,7 @@ Programming         │ Python · Bash · SQL · C#
 
 ## Experience
 
-**SOC Analyst Intern - ITSOLERA** *(Remote · Jan 2026 – Mar 2026)*
+**SOC Analyst Intern - ITSOLERA** *(Remote · Jan 2026 – Apr 2026)*
 - Conducted malware analysis using REMnux and Ghidra, mapping findings to MITRE ATT&CK
 - Implemented File Integrity Monitoring (FIM) in Wazuh for real-time unauthorized change alerts
 - Integrated pfSense firewall with Wazuh SIEM for centralized network traffic visibility
