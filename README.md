@@ -54,7 +54,7 @@ A research project evaluating two unsupervised machine learning models for anoma
 
 ---
 
-### 🎓 Bachelor's Thesis — Computer Science
+### 🎓 Bachelor's Thesis - Computer Science
 > **[View Repository →](https://github.com/mabdullahkhan-sec/bachelor-thesis)**
 
 Thesis chapters from my BS Computer Science degree at Iqra University (2020–2024).
@@ -82,8 +82,8 @@ Programming         │ Python · Bash · SQL · C#
 
 ## Certifications
 
-- **ISC2 CC** — Certified in Cybersecurity
-- **TryHackMe** — Pre Security Path
+- **ISC2 CC** - Certified in Cybersecurity
+- **TryHackMe** - Pre Security Path
 
 ---
 
@@ -98,7 +98,7 @@ Programming         │ Python · Bash · SQL · C#
 
 ## Experience
 
-**SOC Analyst Intern — ITSOLERA** *(Remote · Jan 2026 – Mar 2026)*
+**SOC Analyst Intern - ITSOLERA** *(Remote · Jan 2026 – Mar 2026)*
 - Conducted malware analysis using REMnux and Ghidra, mapping findings to MITRE ATT&CK
 - Implemented File Integrity Monitoring (FIM) in Wazuh for real-time unauthorized change alerts
 - Integrated pfSense firewall with Wazuh SIEM for centralized network traffic visibility
