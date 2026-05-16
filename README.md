@@ -16,9 +16,11 @@
 
 ## About Me
 
-I am an MS Cyber Security candidate at PNEC NUST (GPA: 3.55) with a background in SOC operations, security research, and GRC compliance frameworks. My internship at ITSOLERA gave me hands-on experience operating a real SOC toolchain from SIEM alert triage and firewall integration to malware analysis and workflow automation.
+Cybersecurity Analyst (SOC) at Cyber Salus with hands-on experience in OT/IoMT healthcare environments.
+Skilled in SIEM analysis, incident response, SOC workflows, and threat intelligence. ISC2 Certified in Cybersecurity
+(CC). Pursuing MS in Cyber Security with a strong interest in transitioning into Cyber Risk/GRC roles.
 
-I am actively building toward GRC and information security roles, with focused study on ISO 27001, NIST CSF 2.0, PCI DSS, and risk management. I approach security from both the technical and governance side.
+I am actively building toward GRC and information security roles, with focused study on ISO 27001, NIST CSF 2.0, PCI DSS, HIPAA and risk management. I approach security from both the technical and governance side.
 
 ---
 
@@ -98,12 +100,20 @@ Programming         │ Python · Bash · SQL · C#
 
 ## Experience
 
+**Cyber Security Analyst (SOC - OT/IoMT) — Cyber Salus** *(Remote . May 2026 – Present)*
+• Monitored and analyzed security events across IoMT/OT environments to detect and respond to threats.
+• Performed host-based and network analysis using SIEM and healthcare security platforms.
+• Utilized SOAR platforms to automate response processes and improve operational efficiency.
+• Conducted threat correlation using MITRE ATT&CK to identify attack patterns and TTPs.
+• Analyzed vulnerabilities, alerts and researched remediation solutions aligned with security best practices.
+• Contributed to incident reporting and audit records supporting compliance requirements.
+
 **SOC Analyst Intern - ITSOLERA** *(Remote · Jan 2026 – Apr 2026)*
-- Conducted malware analysis using REMnux and Ghidra, mapping findings to MITRE ATT&CK
-- Implemented File Integrity Monitoring (FIM) in Wazuh for real-time unauthorized change alerts
-- Integrated pfSense firewall with Wazuh SIEM for centralized network traffic visibility
-- Automated SOC alert triage and real-time classification using n8n workflows
-- Deployed ClamAV antivirus with Squid Proxy on pfSense for malware download blocking
+• Conducted malware analysis using REMnux and mapping findings to the MITRE ATT&CK framework.
+• Implemented File Integrity Monitoring (FIM) in Wazuh for real-time alerting on unauthorized file changes.
+• Integrated pfSense firewall with Wazuh SIEM for centralized visibility into network traffic events.
+• Automated SOC alert triage with real-time classification, alerts, and monitoring via n8n.
+• Deployed ClamAV antivirus with Squid Proxy on pfSense to block malware downloads with Wazuh alerting.
 
 ---
 
