@@ -100,7 +100,7 @@ Programming         │ Python · Bash · SQL · C#
 
 ## Experience
 
-**Cyber Security Analyst (SOC - OT/IoMT) — Cyber Salus** *(Remote . May 2026 – Present)*
+**Cyber Security Analyst (SOC, OT/IoMT) - Cyber Salus** *(Remote . May 2026 – Present)*
 - Monitored and analyzed security events across IoMT/OT environments to detect and respond to threats.
 - Performed host-based and network analysis using SIEM and healthcare security platforms.
 - Utilized SOAR platforms to automate response processes and improve operational efficiency.
