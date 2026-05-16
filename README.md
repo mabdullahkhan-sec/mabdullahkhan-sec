@@ -101,19 +101,19 @@ Programming         │ Python · Bash · SQL · C#
 ## Experience
 
 **Cyber Security Analyst (SOC - OT/IoMT) — Cyber Salus** *(Remote . May 2026 – Present)*
-• Monitored and analyzed security events across IoMT/OT environments to detect and respond to threats.
-• Performed host-based and network analysis using SIEM and healthcare security platforms.
-• Utilized SOAR platforms to automate response processes and improve operational efficiency.
-• Conducted threat correlation using MITRE ATT&CK to identify attack patterns and TTPs.
-• Analyzed vulnerabilities, alerts and researched remediation solutions aligned with security best practices.
-• Contributed to incident reporting and audit records supporting compliance requirements.
+- Monitored and analyzed security events across IoMT/OT environments to detect and respond to threats.
+- Performed host-based and network analysis using SIEM and healthcare security platforms.
+- Utilized SOAR platforms to automate response processes and improve operational efficiency.
+- Conducted threat correlation using MITRE ATT&CK to identify attack patterns and TTPs.
+- Analyzed vulnerabilities, alerts and researched remediation solutions aligned with security best practices.
+- Contributed to incident reporting and audit records supporting compliance requirements.
 
 **SOC Analyst Intern - ITSOLERA** *(Remote · Jan 2026 – Apr 2026)*
-• Conducted malware analysis using REMnux and mapping findings to the MITRE ATT&CK framework.
-• Implemented File Integrity Monitoring (FIM) in Wazuh for real-time alerting on unauthorized file changes.
-• Integrated pfSense firewall with Wazuh SIEM for centralized visibility into network traffic events.
-• Automated SOC alert triage with real-time classification, alerts, and monitoring via n8n.
-• Deployed ClamAV antivirus with Squid Proxy on pfSense to block malware downloads with Wazuh alerting.
+- Conducted malware analysis using REMnux and mapping findings to the MITRE ATT&CK framework.
+- Implemented File Integrity Monitoring (FIM) in Wazuh for real-time alerting on unauthorized file changes.
+- Integrated pfSense firewall with Wazuh SIEM for centralized visibility into network traffic events.
+- Automated SOC alert triage with real-time classification, alerts, and monitoring via n8n.
+- Deployed ClamAV antivirus with Squid Proxy on pfSense to block malware downloads with Wazuh alerting.
 
 ---
 
