@@ -16,11 +16,7 @@
 
 ## About Me
 
-Cybersecurity Analyst (SOC) at Cyber Salus with hands-on experience in OT/IoMT healthcare environments.
-Skilled in SIEM analysis, incident response, SOC workflows, and threat intelligence. ISC2 Certified in Cybersecurity
-(CC). Pursuing MS in Cyber Security with a strong interest in transitioning into Cyber Risk/GRC roles.
-
-I am actively building toward GRC and information security roles, with focused study on ISO 27001, NIST CSF 2.0, PCI DSS, HIPAA and risk management. I approach security from both the technical and governance side.
+Information Security GRC Analyst with expertise in governance, risk management, compliance, security control assessments, Identity and Access Management (IAM), and vulnerability management. Experienced in conducting cyber risk assessments, managing risk registers, evaluating control effectiveness, and driving risk treatment initiatives while ensuring compliance with ISO 27001, NIST CSF 2.0, PCI DSS, ISO 42001, and NIST AI RMF. Designed an enterprise Unified GRC Framework integrating leading security, privacy, and AI governance standards. Previously worked as a Cybersecurity Analyst in OT/IoMT healthcare environments, providing a strong technical foundation in SOC operations, SIEM monitoring, and incident response. ISC2 Certified in Cybersecurity (CC) and currently pursuing an MS in Cyber Security.
 
 ---
 
